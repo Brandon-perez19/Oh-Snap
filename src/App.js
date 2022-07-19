@@ -29,7 +29,6 @@ function App() {
 
   return (
     <div>
-      <ContactForm></ContactForm>
       <Nav
         categories={categories}
         setCurrentCategory={setCurrentCategory}
